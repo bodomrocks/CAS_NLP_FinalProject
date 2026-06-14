@@ -65,8 +65,7 @@ Corpus-level FVG frequency statistics
 │   ├── eval_*.csv                Evaluation results
 │   └── corpus_fvg_stats.json     Corpus-level FVG statistics
 ├── report/
-│   ├── FVG_Detection_Report_Final.docx  Full project report (English)
-│   └── Projektbericht_FVG-Erkennung.md  Project report (German)
+│   ├── FVG_Detection_Report_Final.pdf  Full project report (English)
 └── requirements.txt
 ```
 

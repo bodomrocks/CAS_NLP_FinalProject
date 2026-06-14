@@ -1,0 +1,412 @@
+{
+  "docs": 40930,
+  "sents": 5159730,
+  "tagger_with_fvg": 280187,
+  "spacy_with_fvg": 186871,
+  "tagger_fvg_rate": 0.0543,
+  "spacy_fvg_rate": 0.0362,
+  "top50_tagger": [
+    [
+      "zieht in erwägung",
+      8074
+    ],
+    [
+      "stellt frage",
+      4485
+    ],
+    [
+      "führen zu",
+      3455
+    ],
+    [
+      "erhoben beschwerde",
+      2538
+    ],
+    [
+      "führt zu",
+      2419
+    ],
+    [
+      "gestellt frage",
+      1989
+    ],
+    [
+      "führt beschwerde",
+      1984
+    ],
+    [
+      "schliesst auf abweisung",
+      1948
+    ],
+    [
+      "erhob beschwerde",
+      1758
+    ],
+    [
+      "stehen in",
+      1737
+    ],
+    [
+      "steht in",
+      1700
+    ],
+    [
+      "trat auf",
+      1616
+    ],
+    [
+      "stellen frage",
+      1540
+    ],
+    [
+      "führen beschwerde",
+      1506
+    ],
+    [
+      "gemacht gebrauch",
+      1463
+    ],
+    [
+      "findet anwendung",
+      1445
+    ],
+    [
+      "steht in frage",
+      1438
+    ],
+    [
+      "nehmen stellung",
+      1399
+    ],
+    [
+      "liegt in",
+      1382
+    ],
+    [
+      "kommt in frage",
+      1358
+    ],
+    [
+      "ist in kraft",
+      1271
+    ],
+    [
+      "finden anwendung",
+      1270
+    ],
+    [
+      "kam zum schluss",
+      1062
+    ],
+    [
+      "kommt in betracht",
+      972
+    ],
+    [
+      "machen gebrauch",
+      971
+    ],
+    [
+      "genommen in kauf",
+      966
+    ],
+    [
+      "führe zu",
+      958
+    ],
+    [
+      "stellt antrag",
+      938
+    ],
+    [
+      "schliessen auf abweisung",
+      918
+    ],
+    [
+      "führte zur begründung",
+      916
+    ],
+    [
+      "nehmen in anspruch",
+      890
+    ],
+    [
+      "gebracht zum ausdruck",
+      884
+    ],
+    [
+      "steht zur verfügung",
+      882
+    ],
+    [
+      "stehen zur verfügung",
+      862
+    ],
+    [
+      "erheben beschwerde",
+      857
+    ],
+    [
+      "kommen in frage",
+      819
+    ],
+    [
+      "genommen stellung",
+      818
+    ],
+    [
+      "geführt zu",
+      800
+    ],
+    [
+      "erhob klage",
+      791
+    ],
+    [
+      "stellte gesuch",
+      781
+    ],
+    [
+      "getreten in kraft",
+      778
+    ],
+    [
+      "schliessen auf",
+      768
+    ],
+    [
+      "nehmen rücksicht",
+      764
+    ],
+    [
+      "kommt zum ausdruck",
+      759
+    ],
+    [
+      "stellen anforderungen",
+      748
+    ],
+    [
+      "stellen zur verfügung",
+      738
+    ],
+    [
+      "erhebt beschwerde",
+      736
+    ],
+    [
+      "treffen massnahmen",
+      709
+    ],
+    [
+      "steht zur diskussion",
+      688
+    ],
+    [
+      "bringt zum ausdruck",
+      667
+    ]
+  ],
+  "top50_spacy_v2": [
+    [
+      "ziehen in erwägung",
+      8391
+    ],
+    [
+      "erheben beschwerde",
+      4599
+    ],
+    [
+      "weisen beschwerde",
+      4029
+    ],
+    [
+      "stellen in frage",
+      3536
+    ],
+    [
+      "stellen antrag",
+      3169
+    ],
+    [
+      "kommen in frage",
+      3005
+    ],
+    [
+      "nehmen stellung",
+      2711
+    ],
+    [
+      "vertreten auffassung",
+      2669
+    ],
+    [
+      "treten in kraft",
+      2558
+    ],
+    [
+      "nehmen in kauf",
+      2220
+    ],
+    [
+      "tragen rechnung",
+      2218
+    ],
+    [
+      "bringen zu ausdruck",
+      2212
+    ],
+    [
+      "fallen in betracht",
+      2005
+    ],
+    [
+      "kommen in betracht",
+      1987
+    ],
+    [
+      "stehen in frage",
+      1889
+    ],
+    [
+      "nehmen in anspruch",
+      1819
+    ],
+    [
+      "aufheben urteil",
+      1716
+    ],
+    [
+      "fallen ausser betracht",
+      1662
+    ],
+    [
+      "abweisen beschwerde",
+      1655
+    ],
+    [
+      "ziehen in betracht",
+      1439
+    ],
+    [
+      "aufheben entscheid",
+      1418
+    ],
+    [
+      "machen gebrauch",
+      1251
+    ],
+    [
+      "stellen gesuch",
+      1127
+    ],
+    [
+      "erheben einsprache",
+      1093
+    ],
+    [
+      "rügen verletzung",
+      1067
+    ],
+    [
+      "erheben klage",
+      1042
+    ],
+    [
+      "treffen massnahme",
+      988
+    ],
+    [
+      "führen beschwerde",
+      970
+    ],
+    [
+      "kommen zu ausdruck",
+      952
+    ],
+    [
+      "weisen berufung",
+      946
+    ],
+    [
+      "stellen in abrede",
+      915
+    ],
+    [
+      "nehmen rücksicht",
+      908
+    ],
+    [
+      "erheben verwaltungsgerichtsbeschwerde",
+      855
+    ],
+    [
+      "lassen ausser acht",
+      841
+    ],
+    [
+      "erteilen bewilligung",
+      833
+    ],
+    [
+      "erheben berufung",
+      747
+    ],
+    [
+      "stellen in aussicht",
+      697
+    ],
+    [
+      "erlassen vorschrift",
+      667
+    ],
+    [
+      "stellen auf standpunkt",
+      649
+    ],
+    [
+      "vertreten ansicht",
+      614
+    ],
+    [
+      "legen zu last",
+      585
+    ],
+    [
+      "bestätigen urteil",
+      572
+    ],
+    [
+      "setzen zu wehr",
+      565
+    ],
+    [
+      "setzen in kraft",
+      564
+    ],
+    [
+      "bringen in abzug",
+      559
+    ],
+    [
+      "erheben rechtsvorschlag",
+      547
+    ],
+    [
+      "kommen zu anwendung",
+      533
+    ],
+    [
+      "bringen in verkehr",
+      533
+    ],
+    [
+      "ziehen in zweifel",
+      524
+    ],
+    [
+      "weisen rekurs",
+      518
+    ]
+  ]
+}

@@ -1,0 +1,9 @@
+spacy>=3.8
+torch>=2.0
+transformers>=4.30
+datasets>=2.0
+seqeval>=1.2
+tqdm>=4.65
+beautifulsoup4>=4.12
+accelerate>=0.20
+scikit-learn>=1.3
